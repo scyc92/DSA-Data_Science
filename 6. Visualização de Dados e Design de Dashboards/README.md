@@ -1,11 +1,22 @@
-# DSA-Data_Science
-## Projetos da Formação Cientista de Dados da Data Science Academy
+# Visualização de Dados e Design de Dashboards
 
-### A Formação é composta de 6 cursos principais:
+## Principais atividades do curso:
 
-1. Big Data Analytics com R e Microsoft Azure Machine Learning
-2. Big Data Real-Time Analytics com Python e Spark
-3. Engenharia de Dados com Hadoop e Spark
-4. Machine Learning
-5. Business Analytics
-6. Visualização de Dados e Design de Dashboards
+    - Dashboard Analítico Interativo de Vendas com Dash em Python
+    - Dashboard Interativo Para Análise de Incidentes e Atos de Violência
+    - Usando Ferramenta Low-Code Para Construir Visualizações Analíticas Online
+    - Dashboard Interativo com Streamlit, Folium e Plotly Para Monitorar Casos de Doença em Tempo Real
+    - Data App - Dashboard Financeiro Interativo e em Tempo Real Para Previsão de Ativos Financeiros
+    - Data App - Dashboard Interativo Para Detecção de Fraudes com H2O Wave
+    - Data App - Dashboard Interativo Para Análise de Chamados de Suporte
+    - Dashboard Interativo Para Social Media Report
+    - Dashboard Estatístico Para Automação da Análise Exploratória
+    - Construindo Mapa do Brasil Online, Interativo e Responsivo Para Análise de Dados
+    - Automatizando a Exploração Visual de Bancos de Dados com Metabase
+    - Dashboard Interativo Para Responder Perguntas de Negócio com Metabase
+    - Construindo Visualização de Dados para Apresentação Executiva
+    - Storytelling com Infográficos - Projeção de Crescimento de Vendas de Carros Elétricos
+    - Análise de Dados Financeiros em Tempo Real no Power BI
+    - Dashboard Financeiro Interativo - Market Cap, Rendimento de Dividendos e EBITDA no Power BI
+    - Usando Gráfico Customizado no Power BI
+    - Análise de Tendência com Pivot Points no Power BI
