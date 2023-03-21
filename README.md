@@ -1,4 +1,4 @@
-# DSA-Data_Science
+# DSA - Data Science
 ## Formação Cientista de Dados da Data Science Academy
 
 ### A Formação é composta de 6 cursos principais:
