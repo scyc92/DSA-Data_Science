@@ -1,6 +1,8 @@
 # Business Analytics
 
-## Principais atividades do curso:
+O objetivo deste curso é aplicar técnicas analíticas em áreas de negócio como Marketing, Finanças, RH e Supply Chain, coletando dados, definindo métricas, criando modelos e extraindo insights que gerem valor para as empresas e suportem as tomadas de decisões. Neste curso você terá a chance de aplicar seus conhecimentos sobre análise de dados em diferentes áreas de negócio com projetos de Marketing Analytics, RH Analytics, Financial Analytics, Fraud Analytics, Health Analytics, Text Analytics e Supply Chain Analytics.
+
+## Projetos:
 
     - Estatística Elementar
     - Análise de Regressão

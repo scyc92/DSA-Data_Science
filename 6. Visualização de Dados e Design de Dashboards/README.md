@@ -1,6 +1,8 @@
 # Visualização de Dados e Design de Dashboards
 
-## Principais atividades do curso:
+Se você deseja apresentar os resultados do seu trabalho com visualizações e dashboards, este é o curso ideal. Este não é apenas um curso de Visualização de Dados. Este é um curso que ensina você a contar uma história a partir dos dados, usando técnicas de apresentação, design, dashboards e estratégias de visualização em diversas ferramentas.
+
+## Projetos:
 
     - Dashboard Analítico Interativo de Vendas com Dash em Python
     - Dashboard Interativo Para Análise de Incidentes e Atos de Violência

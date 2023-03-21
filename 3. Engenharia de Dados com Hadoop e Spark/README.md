@@ -1,11 +1,3 @@
 # Engenharia de Dados com Hadoop e Spark
 
-## Principais atividades do curso:
-
-    - Hadoop
-    - Cluster
-    - ETL
-    - Machine Learning
-    - Spark
-    - Amazon EMR
-    - Data Mining
+Neste curso você vai aprender como coletar e armazenar os dados de diferentes fontes usando Hadoop, Hive, HBase e Spark. O foco será mais em infraestrutura e armazenamento de diferentes tipos de dados. Você vai aprender como criar e configurar um cluster Hadoop e como aplicar técnicas de mapeamento/redução nos dados. Vai criar um Data Hub com Hadoop e HBase e vai aplicar ETL para mover dados de um banco de dados relaciona para o Hadoop. Vai extrair dados usando R, Python e Pig, vai compreender como aplicar algoritmos de Machine Learning no Hadoop e como configurar Hadoop e Spark, criando uma poderosa solução de Big Data.

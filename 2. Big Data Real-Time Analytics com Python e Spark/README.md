@@ -1,6 +1,8 @@
 # Big Data Real-Time Analytics com Python e Spark
 
-## Principais atividades do curso:
+Neste curso faremos análise de dados com Python, usando como framework o Apache Spark. Através de diversos Labs, Estudos de Caso, Mini-Projetos e Projetos, você vai desenvolver seu conhecimento teórico e prático em análise de dados, técnicas de análise exploratória e pré-processamento, Machine Learning, SQL e como realizar análise de dados em tempo real.
+
+## Projetos:
 
     - Limpeza e Pré-Processamento de Dados com NumPy
     - Data Science na Educação – Análise de Dados Escolares com Pandas

@@ -1,6 +1,8 @@
 # Machine Learning
 
-## Principais atividades do curso:
+Todos os conceitos de Machine Learning são explicados em detalhes. Você estudará os principais algoritmos de Machine Learning e irá aprender como implementá-los usando R e Python. Neste curso você terá uma excelente visão de análise e armazenamento de Big Data e melhores condições de compreender os algoritmos de Machine Learning, além de conceitos avançados como o de Support Vector Machines e Redes Neurais. O objetivo deste curso é trazer para você a construção de modelos de Machine Learning e além de estudar a teoria de aprendizagem de máquina, você desenvolve suas habilidades em Machine Learning com Linguagens Python e R, através de diversos projetos com diversos algoritmos.
+
+## Projetos:
 
     - Segmentação de Consumidores Para Campanhas Customizadas de Marketing
     - Collocations e Processamento de Comentários de Avaliações de Hotéis
