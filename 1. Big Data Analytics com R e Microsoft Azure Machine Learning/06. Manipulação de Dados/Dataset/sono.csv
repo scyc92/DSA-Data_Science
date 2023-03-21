@@ -1,0 +1,31 @@
+nome,cidade,pais,sono_total,sono_ciclo,sono_indice,peso
+Breno,Recife,Brasil,12.1,NA,11.9,50
+Monica,Fortaleza,Brasil,17,NA,7,72
+Tiago,Goiania,Brasil,14.4,NA,9.6,63
+Fernando,Curitiba,Brasil,14.9,0.133333333,9.1,67
+Matias,Recife,Brasil,4,0.666666667,20,49
+Carlos,Recife,Brasil,14.4,0.766666667,9.6,56
+Josias,Rio de Janeiro,Brasil,8.7,0.383333333,15.3,58
+Marta,Porto Alegre,Brasil,7,NA,17,90
+Carolina,Porto Alegre,Brasil,10.1,0.333333333,13.9,101
+Keyla,Porto Alegre,Brasil,3,NA,21,95
+Tamires,Capri,Brasil,5.3,NA,18.7,56
+Natacha,Blumenau,Brasil,9.4,0.216666667,14.6,62
+Flavio,Blumenau,Brasil,10,NA,14,69
+Natalia,Blumenau,Brasil,12.5,0.116666667,11.5,67
+Abel,Buenos Aires,Argentina,10.3,NA,13.7,66
+Abilio,Buenos Aires,Argentina,8.3,NA,15.7,59
+Magda,Maceio,Brasil,9.1,0.15,14.9,58
+Leonardo,Maceio,Brasil,17.4,0.383333333,6.6,70
+Rodolfo,Buenos Aires,Argentina,5.3,NA,18.7,72
+Sandro,Maceio,Brasil,18,0.333333333,6,78
+Rafael,Maceio,Brasil,3.9,NA,20.1,84
+Raisa,Maceio,Brasil,19.7,0.116666667,4.3,88
+Leslie,Curitiba,Brasil,2.9,1,21.1,88
+Abelardo,Buenos Aires,Argentina,3.1,NA,20.9,102
+Nadia,Recife,Brasil,10.1,0.283333333,13.9,120
+Norma,Goiania,Brasil,10.9,NA,13.1,90
+Lais,Belo Horizonte,Brasil,14.9,NA,9.1,96
+Larissa,Belo Horizonte,Brasil,12.5,0.416666667,11.5,58
+Narelle,Buenos Aires,Argentina,9.8,0.55,14.2,59
+Galago,Buenos Aires,Argentina,9.8,0.55,14.2,71
